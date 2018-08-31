@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_cd21783053d1a67f7eaaa697836b42fb4888b383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_69875e383317d2a0dd01a68abb020b6e86f89473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_9c70808c6c156bdc8bc4d5db0b3a3a91af140ee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_18bfad32653a12f2714160f5bc08239b84eba847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f189c4e62d9231aeb0e82be740e92e3f1ded4dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_04fba0acb7533cb88874ad1c7fccb89d1227bafc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_726e0e624fe55b2383d1cf7da496188c2dbad86b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\reactnativesoapclient\react-native-dialog-progress\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="91ffbd31a574699901e23523e7ae4957b1d783fc">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\reactnativesoapclient-react-native-dialog-progress-unspecified_5738671fe05eb3e302dc44007228d206b6fa83d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d79a6cf1a319917bd46f56e448d288e2a6ae0d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_744968ce0ef19fd7ecae89372dc68abe2aa585ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_19a0d60af2a1b8425e2d4e5e6ced693aa836dc1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_e7e544a437aee18ef45ed9f9f31936f5b1ffeab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_de552b2985eea34f7260f4a19257a540217080f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_dc3bc5b03dbfdb4afb3f1f78ebbd4085fcad10d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_f59c45face4127b22d26f0c55f2a92902ad5fd8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_893ffa5963edd37f7cdb85498907e1987aa10eb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_bb03402c261acc7c8324a9dfb5f5ce1108c1e2da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_af55454f97782153b85567f8718573a1460b73ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\.gradle\caches\modules-2\files-2.1\com.github.kevinsawicki\http-request\5.6\168305b7a983142b6311a005f0ad96d3b34d92d\http-request-5.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0168305b7a983142b6311a005f0ad96d3b34d92d">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\http-request-5.6_f9438a6035e304cd5be635a9ff183f396c12478d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_3764843f6973094beda0a1333700b4bc340537cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_46d65cb8903b107e739ed34ec7f27e7f2a382ab6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_6cef33551187cbafdfe1119bd073502ec1514469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bily\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\bily\Documents\react-native-soap-client\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_e700bdcdc377feb06112bc935a4506c95fd52a08.jar" />
+    </item>
+
+</items>
